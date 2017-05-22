@@ -1,5 +1,7 @@
 # Ember-svg
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-svg.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
